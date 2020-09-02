@@ -1,6 +1,6 @@
 # Vim Windir Syntax
 
-![Windir Example Screenshot](/image/windir-example.png)
+![Windir Example Screenshot](images/windir-example.png)
 
 
 Syntax file for Windows directory listing. Example Windows command:
