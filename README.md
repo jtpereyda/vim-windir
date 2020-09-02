@@ -1,9 +1,11 @@
 # Vim Windir Syntax
 
+_Better skimming for Windows directory listings._
+
 ![Windir Example Screenshot](images/windir-example.png)
 
 
-Syntax file for Windows directory listing. Example Windows command:
+Vim colorization for for Windows directory listing, from Windows commands such as:
 
 ```
 dir /s /a C:\ > c.windir
