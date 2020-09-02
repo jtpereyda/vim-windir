@@ -1,5 +1,8 @@
 # Vim Windir Syntax
 
+![Windir Example Screenshot](/image/windir-example.png)
+
+
 Syntax file for Windows directory listing. Example Windows command:
 
 ```
