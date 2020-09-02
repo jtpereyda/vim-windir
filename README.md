@@ -1,6 +1,6 @@
 # Vim Windir Syntax
 
-_Better skimming for Windows directory listings._
+_Better skimming for Windows directory listings_
 
 ![Windir Example Screenshot](images/windir-example.png)
 
