@@ -18,3 +18,7 @@ Copy `windir.vim` into `~/.vim/syntax/` and optionally add the following to `~/.
 ```
 au BufNewFile,BufReadPost *.windir  set filetype=windir
 ```
+
+## Reference
+
+For help editing or creating your own syntax file, see: https://vim.fandom.com/wiki/Creating_your_own_syntax_files
